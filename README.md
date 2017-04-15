@@ -1,20 +1,20 @@
+![Vuma](/assets/img/logo.png)
 # Vuma - A Multipurpose Dashboard
+Vuma (Vue & Bulma) is the junction of two frontend frameworks, one JavaScript (Vue.js) and the other CSS (Bulma).
 
-Vuma (Vue & Bulma) é a junção de dois frameworks de frontend, um javascript (Vue.js) e o outro CSS (Bulma).
+# Objective
+Provide an initial basic structure that facilitates the development of (dashboards, administrative panels, etc).
 
-# Objetivo
+# Technologies used
+Vuma is developed with the following technologies:
 
-Oferecer uma estrutura básica inicial que facilite o desenvolvimento de (dashboards, painéis administrativos, etc).
+* [Node.js](https://nodejs.org/en) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [Vue.js]() - Progressive JavaScript Framework.
+*  [Vue CLI](https://github.com/vuejs/vue-cli) - A Vue Client, with numerous useful tools to facilitate development with Vue.js.
+* [Vue Router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
+* [Bulma](http://bulma.io) - Framework Frontend CSS.
 
-# Tecnologias utilizadas
-
-Vuma é desenvolvido com as seguintes tecnologias:
-
-Vue CLI - (Pacotes de ferramentas úteis para facilitar o desenvolvimento com o Vue.js)
-Vue.js (Framework Progressivo JavaScript)
-Bulma (Framework Frontend CSS)
-
-## Build Setup
+# Build Setup
 
 ``` bash
 # install dependencies
@@ -40,3 +40,8 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# TODO
+
+* Implement tests unit & e2e
+* Implement login with vuex
