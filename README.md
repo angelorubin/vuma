@@ -15,7 +15,7 @@ Vuma is developed with the following technologies:
 * [Vue.js]() - Progressive JavaScript Framework.
 *  [Vue CLI](https://github.com/vuejs/vue-cli) - A Vue Client, with numerous useful tools to facilitate development with Vue.js.
 * [Vue Router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
-* [Bulma](http://bulma.io) - Framework Frontend CSS.
+* [Bulma](http://bulma.io) - A simple framework frontend CSS.
 
 # Build Setup
 
@@ -46,5 +46,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 # TODO
 
-* Implement tests unit & e2e
-* Implement login with vuex
+* Develop tests  - unit and e2e
+* Develop login with vuex
