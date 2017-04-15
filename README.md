@@ -1,4 +1,4 @@
-[Vuma](http://i.imgur.com/uiaj7Se.png)
+![Vuma](http://i.imgur.com/uiaj7Se.png)
 
 # Vuma - A Multipurpose Dashboard
 Vuma (Vue & Bulma) is the junction of two frontend frameworks, one JavaScript (Vue.js) and the other CSS (Bulma).
