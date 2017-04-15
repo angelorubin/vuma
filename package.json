@@ -4,8 +4,9 @@
   "description": "A Vue and Bulma Dashboard",
   "author": "angelorubin <angelorubin@gmail.com>",
   "private": true,
-  "main" : "server.js",
+  "main": "server.js",
   "scripts": {
+    "postinstall": "npm install express",
     "start": "node server.js",
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
@@ -16,6 +17,7 @@
   },
   "dependencies": {
     "bulma": "^0.4.0",
+    "font-awesome": "^4.7.0",
     "vue": "^2.2.2",
     "vue-router": "^2.2.0"
   },
